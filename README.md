@@ -34,13 +34,13 @@ A novel diffusion-based system ensuring consistent visual representation of char
 **Tech:** Python, Stable Diffusion XL, SAM, Grounding DINO  
 **Results:** CLIP Score: `0.3619` | DreamSim Score: `0.1753`
 
-![RQ1 How to maintain character identity across scenes](https://github.com/user-attachments/assets/e08eb2df-4426-41db-b26f-b110733858f9)
-![4](https://github.com/user-attachments/assets/b0e0c773-1146-4d01-9165-69b584691d1f)
-![5](https://github.com/user-attachments/assets/0447ba35-4b03-4f4f-ade4-cec8ed27a44c)
-![6](https://github.com/user-attachments/assets/41913db3-0256-4cbf-8d77-73e6b5bcd5e8)
-![7](https://github.com/user-attachments/assets/b22935de-0ddc-41b1-823b-753136405bf5)
-![8](https://github.com/user-attachments/assets/6ff18c15-5ad6-42f2-879d-e0576e009bbc)
-![3](https://github.com/user-attachments/assets/68b2046d-5814-4614-8c6f-619cd70b0bd1)
+<img src="./assets/images/results/rq1.png" alt="rq1" style="margin-top: 1rem; max-width: 100%; border-radius: 8px;">
+<img src="./assets/images/results/3.png" alt="3" style="margin-top: 1rem; max-width: 100%; border-radius: 8px;">
+<img src="./assets/images/results/4.png" alt="4" style="margin-top: 1rem; max-width: 100%; border-radius: 8px;">
+<img src="./assets/images/results/5.png" alt="5" style="margin-top: 1rem; max-width: 100%; border-radius: 8px;">
+<img src="./assets/images/results/6.png" alt="6" style="margin-top: 1rem; max-width: 100%; border-radius: 8px;">
+<img src="./assets/images/results/7.png" alt="7" style="margin-top: 1rem; max-width: 100%; border-radius: 8px;">
+<img src="./assets/images/results/8.png" alt="8" style="margin-top: 1rem; max-width: 100%; border-radius: 8px;">
 
 ---
 
@@ -149,7 +149,7 @@ The U-Net model was evaluated using the following metrics:
 
 **🔹 Visual Output Example**  
 
-![image](https://github.com/user-attachments/assets/0d66825d-f73f-41e4-9eff-053c77ae3cfe)
+<img src="./assets/images/results/graphs.png" alt="rq1" style="margin-top: 1rem; max-width: 100%; border-radius: 8px;">
 
 ##### 🏷️ Classification Results
 
@@ -161,21 +161,21 @@ The CNN model was evaluated on four tumor types: *No Tumor, Glioma, Meningioma, 
 |------------------|------------|
 | Accuracy         | 94.5%      |
 
-![image](https://github.com/user-attachments/assets/042d688c-6324-4efa-a12e-dc038976512c)
+<img src="./assets/images/results/accuracy.png" alt="rq1" style="margin-top: 1rem; max-width: 100%; border-radius: 8px;">
 
 **🔹 Confusion Matrix**
 
-![image](https://github.com/user-attachments/assets/f54a6368-81d2-49a6-a5c9-af7a461bb01d)
+<img src="./assets/images/results/cm.png" alt="rq1" style="margin-top: 1rem; max-width: 100%; border-radius: 8px;">
 
 **🔹 Training/Validation Accuracy & Loss Curves**
 
-![image](https://github.com/user-attachments/assets/af13b3a4-7aec-4f73-ab28-ba7dbc08b075)
+<img src="./assets/images/results/val.png" alt="rq1" style="margin-top: 1rem; max-width: 100%; border-radius: 8px;">
 
 **🔹 Predictions**
 
-![image](https://github.com/user-attachments/assets/dfaab99c-0861-4ef6-8ddb-d26fc52b507b)
-![image](https://github.com/user-attachments/assets/947afd76-7fae-41c1-b5ba-d38a6f7332a7)
-![image](https://github.com/user-attachments/assets/41511a06-35ec-43a8-82c2-8367ccab9fd4)
+<img src="./assets/images/results/p 1.png" alt="rq1" style="margin-top: 1rem; max-width: 100%; border-radius: 8px;">
+<img src="./assets/images/results/p 2.png" alt="rq1" style="margin-top: 1rem; max-width: 100%; border-radius: 8px;">
+<img src="./assets/images/results/p 3.png" alt="rq1" style="margin-top: 1rem; max-width: 100%; border-radius: 8px;">
 
 ---
 
