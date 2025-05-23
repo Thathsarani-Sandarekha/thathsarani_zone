@@ -203,12 +203,11 @@ An integrated solution to recognize vehicle license plates and manage parking sl
 
 ## 🛠️ Skills
 
-- **Languages:** Python, SQL, HTML/CSS, JavaScript, C++
-- **Frameworks:** TensorFlow, Keras, PyTorch, Hugging Face, Streamlit, LangChain
+- **Languages:** Python, SQL, HTML/CSS, JavaScript
+- **Frameworks:** TensorFlow, Keras, PyTorch, Hugging Face, Streamlit, LangChain, RAG, PySpark, Streamlit
 - **CV & OCR:** OpenCV, YOLOv8, PaddleOCR, SAM, Grounding DINO
-- **Data Tools:** Pandas, Scikit-learn, XGBoost, Power BI
-- **MLOps & Cloud:** Azure, Databricks, Docker, Git
-- **UI:** Flutter
+- **Libraries & Tools:** NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn
+- **MLOps & Cloud:** Azure, Databricks, Git
 
 ---
 
